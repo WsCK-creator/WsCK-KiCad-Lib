@@ -1,0 +1,4 @@
+[submodule "submodules/NanoV3-SuperMini-Footprint-KiCad"]
+	path = submodules/NanoV3-SuperMini-Footprint-KiCad
+	url = https://github.com/WsCK-creator/NanoV3-SuperMini-Footprint-KiCad
+	branch = main
