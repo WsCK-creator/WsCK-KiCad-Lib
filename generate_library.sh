@@ -30,7 +30,8 @@ done
 echo "[*] Cleaning $SUBMODULES_DIR directory..."
 for dir in "$SUBMODULES_DIR"/*; do
     if [ -d "$dir" ]; then
-        rm -rf "$dir"/.[!.]*
+        rm -rf "$dir"/.*
+		rm -rf "$dir"/*
     fi
 done
 
