@@ -2,3 +2,7 @@
 	path = submodules/NanoV3-SuperMini-Footprint-KiCad
 	url = https://github.com/WsCK-creator/NanoV3-SuperMini-Footprint-KiCad
 	branch = main
+[submodule "submodules/PS2-Controller-Conn-Footprint-KiCad"]
+	path = submodules/PS2-Controller-Conn-Footprint-KiCad
+	url = https://github.com/WsCK-creator/PS2-Controller-Conn-Footprint-KiCad.git
+	branch = main
